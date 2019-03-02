@@ -13,9 +13,7 @@
 
 **hash function คืออะไร?**
 
-hash function หรือ hash algorithm เป็นเทคนิคการเก็บข้อมูล(data structure)แบบหนึ่งซึ่งมีคุณสมบัติในการระบุความถูกต้องของข้อมูล โดยการนำข้อมูลมาคำนวนหา hash value ผ่าน hash function การเปลี่ยนข้อมูลเพียงนิดเดียวจะทำให้ hash value เปลี่ยนไปอย่างมาก
-
-[การทำงานของ hash function อย่างละเอียด](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
+hash function หรือ hash algorithm เป็นเทคนิคการเก็บข้อมูล(data structure)แบบหนึ่งซึ่งมีคุณสมบัติในการระบุความถูกต้องของข้อมูล โดยการนำข้อมูลมาคำนวนหา hash value ผ่าน hash function การเปลี่ยนข้อมูลเพียงนิดเดียวจะทำให้ hash value เปลี่ยนไปอย่างมาก [คลิปอธิบายการทำงานของ hash function อย่างละเอียด](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 
 ข้อมูลที่ใช้ใน hash function ในบล็อคเชนคือ
 
