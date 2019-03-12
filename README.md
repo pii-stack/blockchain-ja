@@ -63,12 +63,16 @@ Ethereum(intermediate)
     - [Infura](#Infura)
     
 ## บล็อคเชนคืออะไร?
+บล็อคเชนคือฐานข้อมูลสาธารณะ [ภาพรวมของบล็อคเชน](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
 ### ฐานข้อมูลกระจาย(Distributed Ledger)
 บล็อคเชนถือเป็น [Distributed Ledger](https://www.investopedia.com/terms/d/distributed-ledgers.asp) รูปแบบหนึ่ง ฐานข้อมูลประเภทนี้จะเก็บข้อมูลชุดเดียวกันไว้หลายๆฐานเพื่อใช้เปรียบเทียบกัน
 
 ### ข้อตกลงร่วมในระบบ(Consensus Mechanism)
 [Consensus Mechanism](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp) คือข้อตกลงที่ใช้ร่วมกันระหว่าง node ในการทำให้ข้อมูลทั้งหมดเป็นชุดเดียวกัน
+
+### การขุดเหรียญคริปโต(Mining)
+เราเรียกกระบวนการในการเขียนข้อมูลเพิ่มลงบนบล็อคเชนว่า เป็นการต่อบล็อคใหม่ [การขุดเหรียญคริปโต](https://www.investopedia.com/terms/b/bitcoin-mining.asp) คือกระบวนการในการค้นหาผู้มีสิทธิ์เพียงคนเดียวที่จะสามารถเขียนข้อมูลใหม่ 1 บล็อคลงบนบล็อคเชนได้
 
 ### Solidity
 เรียนรู้การเขียน Solidity ฟรีผ่านเกม [cryptozombies](https://cryptozombies.io/)
