@@ -6,7 +6,7 @@
 ความรู้พื้นฐาน(non technical)
 
 - [บล็อคเชนคืออะไร?](#บล็อคเชนคืออะไร)
-    - [ฐานข้อมูลกระจาย(Distributed Ledger)](#ฐานข้อมูลกระจายdistributed-ledger)
+    - [ฐานข้อมูลกระจาย(Distributed Ledgers)](#ฐานข้อมูลกระจายdistributed-ledgers)
     - [ข้อตกลงร่วมในระบบ(Consensus Mechanism)](#ข้อตกลงร่วมในระบบConsensus-Mechanism)
     - [การขุดเหมืองบล็อคเชน(Mining)](#การขุดเหมืองบล็อคเชนmining)
     - [บล็อคเชนสาธารณะและบล็อคเชนส่วนตัว](#บล็อคเชนสาธารณะและบล็อคเชนส่วนตัว)
@@ -65,7 +65,7 @@ Ethereum(intermediate)
 ## บล็อคเชนคืออะไร?
 บล็อคเชนคือฐานข้อมูลสาธารณะ [ภาพรวมของบล็อคเชน](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
-### ฐานข้อมูลกระจาย(Distributed Ledger)
+### ฐานข้อมูลกระจาย(Distributed Ledgers)
 บล็อคเชนถือเป็น [Distributed Ledger](https://www.investopedia.com/terms/d/distributed-ledgers.asp) รูปแบบหนึ่ง ฐานข้อมูลประเภทนี้จะเก็บข้อมูลชุดเดียวกันไว้หลายๆฐานเพื่อใช้เปรียบเทียบกัน
 
 ### ข้อตกลงร่วมในระบบ(Consensus Mechanism)
@@ -76,6 +76,15 @@ Ethereum(intermediate)
 
 ### บล็อคเชนสาธารณะและบล็อคเชนส่วนตัว
 ส่วนมากบล็อคเชนส่วนตัวจะเป็นที่นิยมใช้กันเองระหว่างองค์กรประเภทธนาคารการเงินที่มีการทำธุรกรรมร่วมกัน โดยทั่วไปจะเรียกตามชื่อเทคโนโลยี เช่น Hyper Ledger เป็นต้น จะไม่เรียกว่าบล็อคเชน [นิยาม](https://medium.com/coinmonks/public-vs-private-blockchain-in-a-nutshell-c9fe284fa39f) ในกรณีทั่วไปแล้ว บล็อคเชน จะหมายถึงบล็อคเชนสาธารณะเท่านั้น
+
+## คุณสมบัติบล็อคเชน
+[คุณสมบัติที่สำคัญในการนิยามเทคโนโลยีนี้](https://www.quora.com/What-are-the-key-properties-of-the-Bitcoin-blockchain)
+
+### ข้อดีของแอพบล็อคเชน
+[จุดเด่น 5 ประการในการเอาบล็อคเชนเข้ามาประยุกต์ใช้ในธุรกิจ](https://www.ibm.com/blogs/blockchain/2018/02/top-five-blockchain-benefits-transforming-your-industry/)
+
+### ความเข้าใจผิดเกี่ยวกับบล็อคเชน
+เทคโนโลยีบล็อคเชนยังถือว่าใหม่มาก หลายคนที่ไม่เข้าใจในเทคโนโลยีนี้ทำให้เกิด [ความเข้าใจผิดไปต่างๆมากมาย](https://www.itproportal.com/features/breaking-down-blockchain-10-common-misconceptions/) เช่น บล็อคเชนเป็นภาพลวงตา เป็นแหล่งฟอกเงิน เป็นแชร์ลูกโซ่หลอกลวง
 
 ### Solidity
 เรียนรู้การเขียน Solidity ฟรีผ่านเกม [cryptozombies](https://cryptozombies.io/)
