@@ -6,7 +6,7 @@
 ความรู้พื้นฐาน(non technical)
 
 - [บล็อคเชนคืออะไร?](#บล็อคเชนคืออะไร?)
-    - [ฐานข้อมูลกระจาย(Distributed Ledger)](#ฐานข้อมูลกระจาย`(Distributed-Ledger`))
+    - [ฐานข้อมูลกระจาย(Distributed Ledger)](#ฐานข้อมูลกระจาย\(Distributed-Ledger\))
     - [ข้อตกลงร่วมในระบบ(Consensus Mechanism)](#ข้อตกลงร่วมในระบบ)
     - [การขุดเหมืองบล็อคเชน(Mining)](#การขุดเหมืองบล็อคเชน)
     - [บล็อคเชนสาธารณะและบล็อคเชนส่วนตัว](#บล็อคเชนสาธารณะและบล็อคเชนส่วนตัว)
@@ -64,7 +64,7 @@ Ethereum(intermediate)
     
 ## บล็อคเชนคืออะไร?
 
-### ฐานข้อมูลกระจาย`(Distributed-Ledger`)
+### ฐานข้อมูลกระจาย(Distributed Ledger)
 
 ### Solidity
 เรียนรู้การเขียน Solidity ฟรีผ่านเกม [cryptozombies](https://cryptozombies.io/)
