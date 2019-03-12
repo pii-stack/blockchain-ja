@@ -62,13 +62,12 @@ Ethereum(intermediate)
     - [การยกเลิก contracts](#การยกเลิก-contracts)
     - [Infura](#Infura)
     
+## บล็อคเชนคืออะไร?
 
+### ฐานข้อมูลกระจาย`(Distributed-Ledger`)
 
-## บล็อคเชน 101
-**บล็อคเชนคืออะไร?**
+### Solidity
+เรียนรู้การเขียน Solidity ฟรีผ่านเกม [cryptozombies](https://cryptozombies.io/)
 
-## Solidity
-[เขียน DApp(Decentralized Application) ลง Ethereum ด้วย solidity](https://cryptozombies.io/)
-
-## Infura
+### Infura
 ปกติการจะ deploy smart contracts เราจะต้องเปิด node ตัวเองเพื่อเข้าร่วมระบบ [Infura](https://infura.io/) ช่วยทำหน้าที่ตรงนี้ให้
