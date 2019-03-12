@@ -65,6 +65,10 @@ Ethereum(intermediate)
 ## บล็อคเชนคืออะไร?
 
 ### ฐานข้อมูลกระจาย(Distributed Ledger)
+บล็อคเชนถือเป็น [Distributed Ledger](https://www.investopedia.com/terms/d/distributed-ledgers.asp) รูปแบบหนึ่ง ฐานข้อมูลประเภทนี้จะเก็บข้อมูลชุดเดียวกันไว้หลายๆฐานเพื่อใช้เปรียบเทียบกัน
+
+### ข้อตกลงร่วมในระบบ(Consensus Mechanism)
+[Consensus Mechanism](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp) คือข้อตกลงที่ใช้ร่วมกันระหว่าง node ในการทำให้ข้อมูลทั้งหมดเป็นชุดเดียวกัน
 
 ### Solidity
 เรียนรู้การเขียน Solidity ฟรีผ่านเกม [cryptozombies](https://cryptozombies.io/)
