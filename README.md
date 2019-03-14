@@ -86,7 +86,7 @@ Ethereum(intermediate)
 ### ความเข้าใจผิดเกี่ยวกับบล็อคเชน
 เทคโนโลยีบล็อคเชนยังถือว่าใหม่มาก หลายคนที่ไม่เข้าใจในเทคโนโลยีนี้ทำให้เกิด [ความเข้าใจผิดไปต่างๆมากมาย](https://www.itproportal.com/features/breaking-down-blockchain-10-common-misconceptions/) เช่น บล็อคเชนเป็นภาพลวงตา เป็นแหล่งฟอกเงิน เป็นแชร์ลูกโซ่หลอกลวง
 
-[What qualifies as a Blockchain?](https://chainskills.com/2016/11/21/what-qualifies-as-a-blockchain/)
+- [What qualifies as a Blockchain?](https://chainskills.com/2016/11/21/what-qualifies-as-a-blockchain/)
 
 ## เหรียญคริปโต
 เราสามารถติดตามศึกษาข้อมูลเหรียญคริปโตทุกเหรียญบนโลกได้จากเว็บ [coinmarketcap](https://coinmarketcap.com/) โดยเว็บเรียงลำดับสกุลเงินให้ตามมูลค่าปัจจุบัน
@@ -94,8 +94,8 @@ Ethereum(intermediate)
 ### Bitcoin
 เหรียญคริปโตเหรียญแรกที่ใช้ได้จริง มีมูลค่าสูงที่สุดในตระกูลเหรียญคริปโต 
 
-[คลิปวีดีโออธิบาย Bitcoin](https://www.youtube.com/watch?v=Gc2en3nHxA4)
-[Bitcoin white paper](https://bitcoin.org/bitcoin.pdf)
+- [คลิปวีดีโออธิบาย Bitcoin](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+- [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf)
 
 ### Ethereum
 อีเธอเรียมเป็นบล็อคเชนที่สามารถเขียนแอพลงไปได้ [Ethereum](https://www.ethereum.org/)
